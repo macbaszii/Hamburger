@@ -1,0 +1,28 @@
+PODS:
+  - Kiwi (2.3.1)
+  - MMDrawerController (0.5.7):
+    - MMDrawerController/Core
+    - MMDrawerController/MMDrawerBarButtonItem
+    - MMDrawerController/MMDrawerVisualStates
+    - MMDrawerController/Subclass
+  - MMDrawerController+Storyboard (0.0.1):
+    - MMDrawerController (~> 0.4.0)
+  - MMDrawerController/Core (0.5.7)
+  - MMDrawerController/MMDrawerBarButtonItem (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/MMDrawerVisualStates (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/Subclass (0.5.7):
+    - MMDrawerController/Core
+
+DEPENDENCIES:
+  - Kiwi
+  - MMDrawerController
+  - MMDrawerController+Storyboard
+
+SPEC CHECKSUMS:
+  Kiwi: 73e1400209055ee9c8ba78c6012b6b642d0fb9f7
+  MMDrawerController: c3ab7a318ddc7e2bcd133139c3161af08c6e1197
+  MMDrawerController+Storyboard: d1bde200dfd22d9caac6187cac4fa4ce62ce0a9b
+
+COCOAPODS: 0.34.1

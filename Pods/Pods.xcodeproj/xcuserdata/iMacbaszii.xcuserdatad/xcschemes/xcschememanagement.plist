@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-HamburgerTests-Kiwi.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HamburgerTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MMDrawerController+Storyboard.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MMDrawerController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>109AAAD0C6A006AE0D63AF7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>516B31018F1334B00B560EA6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5DF90819A1186D92C2A72791</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5EC1AED8FFE37F67E39F84F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EA907C614CDA5422FF2B3F8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

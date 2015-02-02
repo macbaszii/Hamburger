@@ -6,7 +6,11 @@
 //  Copyright (c) 2558 Kiattisak Anoochitarom. All rights reserved.
 //
 
+
 #import "AppDelegate.h"
+
+#import <MMDrawerController.h>
+static NSInteger const MenuDrawerWidth = 260;
 
 @interface AppDelegate ()
 
@@ -17,6 +21,9 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    MMDrawerController *menuController = (MMDrawerController *)self.window.rootViewController;
+    [menuController setMaximumLeftDrawerWidth:MenuDrawerWidth];
     return YES;
 }
 
